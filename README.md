@@ -15,11 +15,6 @@ This is a simple HTML, CSS, and JavaScript-based quiz website. The quiz fetches 
 - Provides an option to restart the quiz
 
 
-## How to Play
-- Open the Tic Tac Toe website in your browser.
-- Click on any empty square to place your symbol (X or O).
-- Take turns with your opponent until one player gets three of their symbols in a row, column, or diagonal.
-- The game will announce the winner, or if it's a tie, when the board is full.
 ## Technologies Used
 - HTML
 - CSS
